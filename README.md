@@ -10,7 +10,7 @@
 
 ![Freit GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFreit&show_icons=true&theme=merko)
 
-## Tecnologias que que usono meu dia
+## Tecnologias que que uso no meu dia
 
 <div> 
   <img align="center" alt="Html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

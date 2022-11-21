@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**MatheusFreit/MatheusFreit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá Mundo! Eu sou o Matheus Freitas   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">  
 
-Here are some ideas to get you started:
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusFreit/ce669684c34679f741252b29c33ca830/raw/b1f193f29cac4152643a4439165585a406c1723f/githubcard.svg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🏭 Hoje estou trabalhando como suporte técnico
+- 📘 Estudando Javascript
+- 👩‍💻Aprendendo sobre frond-end
+
+### Contato
+
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-albuquerque-/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_albu2)
+
+

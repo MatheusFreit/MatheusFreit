@@ -3,7 +3,7 @@
 
 <img align="right" height="370em" src="https://raw.githubusercontent.com/gist/MatheusFreit/ce669684c34679f741252b29c33ca830/raw/b1f193f29cac4152643a4439165585a406c1723f/githubcard.svg"/>
 
-- 👨‍🏭 Hoje estou trabalhando como suporte técnico
+- 👨‍🏭 Atualmente no cargo de Suporte Técnico
 - 📘 Estudando Javascript
 - 👩‍💻Aprendendo sobre frond-end
 

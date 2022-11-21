@@ -1,7 +1,7 @@
 
 ### Olá Mundo! Eu sou o Matheus Freitas   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">  
 
-<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/MatheusFreit/ce669684c34679f741252b29c33ca830/raw/b1f193f29cac4152643a4439165585a406c1723f/githubcard.svg"/>
+<img align="right" height="370em" src="https://raw.githubusercontent.com/gist/MatheusFreit/ce669684c34679f741252b29c33ca830/raw/b1f193f29cac4152643a4439165585a406c1723f/githubcard.svg"/>
 
 - 👨‍🏭 Hoje estou trabalhando como suporte técnico
 - 📘 Estudando Javascript

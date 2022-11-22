@@ -8,7 +8,7 @@
 - 👩‍💻Aprendendo sobre frond-end
 
 
-![Freit GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFreit&show_icons=true&theme=merko)
+![Freit GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFreit&show_icons=true&theme=merko&)
 
 ## Tecnologias que que uso no meu dia
 

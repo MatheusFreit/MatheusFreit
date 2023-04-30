@@ -4,8 +4,8 @@
 
 - 👨‍🏭 Atualmente estou no cargo de Suporte Técnico
 - 😃 Em buscar da primeira vaga na programação 
-- 📘 Estudando Javascript
-- 👩‍💻Aprendendo sobre C#
+- 📘 Estudando Javascript e C#
+- 👩‍💻Aprendendo sobre back-end e front-end
 
 ## Tecnologias que uso no meu dia
 
